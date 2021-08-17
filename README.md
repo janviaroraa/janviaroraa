@@ -6,10 +6,10 @@ I think computer science is omnipresent, i.e., it is present in almost every fie
 I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic in tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
 
 ### 📫 How to reach me? ![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
-- [Twitter](https://twitter.com/janviaroraa_) 
+- [Gmail](jjanvi.arora18@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/janvi-arora-ja06660/) 
+- [Twitter](https://twitter.com/janviaroraa_) 
 - [Instagram](https://www.instagram.com/janviaroraa_)
-- [Gmail](mailto: jjanvi.arora18@gmail.com)
 <!-- - [My personal portfolio](http://sharmaumang001.github.io)  -->
 
 ### 🎯 Github Stats
