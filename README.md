@@ -1,8 +1,8 @@
 # Hello, geeks!  <a href="https://www.linkedin.com/in/janvi-arora-ja06660/"> <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a> </a> 
 <!-- <a href="https://www.codechef.com/users/sharmaumang001"><img alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" /></a> <a href="https://codeforces.com/profile/sharmaumang001"><img alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" /></a> <a href="https://clist.by/coder/sharmaumang001"><img alt="CList" width="22px" src="https://github.com/sharmaumang001/sharmaumang001/blob/main/list.svg" /></a> 
  -->
-I am _Janvi Arora_, a third-year Computer Science Engineering student. I'm from Morinda, Punjab. 
-I think computer science is omnipresent, i.e., it is present in almost every field and I have invested my last two years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. I also create clean, professional, and functional websites.
+I am _Janvi Arora_, a third-year Computer Science Engineering student. I'm from Morinda, Punjab. <br>
+I think computer science is omnipresent, i.e., it is present in almost every field and I have invested my last two years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. I also create clean, professional, and functional websites. <br>
 I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic in tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
 
 ### 📫 How to reach me? ![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
