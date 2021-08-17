@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
-# Hello, geeks!  &nbsp; &nbsp; <a href="https://www.linkedin.com/in/janvi-arora-ja06660/"> <img alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png"> </a> </a> &nbsp; <a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/26/000000/hackerrank.png"> </a> </a> 
+# Hello, geeks!  &nbsp; &nbsp; <a href="https://www.linkedin.com/in/janvi-arora-ja06660/"> <img alt="LinkedIn" src="https://img.icons8.com/fluency/26/000000/linkedin.png"> </a> </a> &nbsp; <a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/26/000000/hackerrank.png"> </a> </a> 
 
 <!-- <a href="https://www.codechef.com/users/sharmaumang001"><img alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" /></a> <a href="https://codeforces.com/profile/sharmaumang001"><img alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" /></a> <a href="https://clist.by/coder/sharmaumang001"><img alt="CList" width="22px" src="https://github.com/sharmaumang001/sharmaumang001/blob/main/list.svg" /></a> 
  -->
