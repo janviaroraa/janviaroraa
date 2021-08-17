@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
 
-[![GitHub Janvi](https://img.shields.io/github/followers/janviaroraa?label=follow&style=social)](https://github.com/janviaroraa)
+<!-- [![GitHub Janvi](https://img.shields.io/github/followers/janviaroraa?label=follow&style=social)](https://github.com/janviaroraa) -->
 
 # Hello, geeks!  &nbsp; &nbsp; <a  href="https://www.linkedin.com/in/janvi-arora-ja06660/"> <img alt="LinkedIn" src="https://img.icons8.com/fluency/36/000000/linkedin.png"> </a> </a>  <a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/36/000000/hackerrank.png"> </a> </a> 
 
