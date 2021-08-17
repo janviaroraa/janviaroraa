@@ -17,7 +17,12 @@ I consider myself a very focused person and always work towards my goals in a ve
 ### 📈 Github Stats
 - [Check My Repositories](https://github.com/janviaroraa?tab=repositories)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janviaroraa&show_icons=true&theme=gotham" alt="Janvi Arora" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janviaroraa&show_icons=true&theme=gotham" alt="Janvi Arora" /> -->
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=janviaroraa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviaroraa&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</div>
 
 
 
