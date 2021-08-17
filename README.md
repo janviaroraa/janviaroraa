@@ -5,7 +5,7 @@ I am _Janvi Arora_, a third-year Computer Science Engineering student. I'm from 
 I think computer science is omnipresent, i.e., it is present in almost every field and I have invested my last two years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. I also create clean, professional, and functional websites. <br>
 I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic in tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
 
-### 📫 How to reach me? ![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
+### <img src="https://img.icons8.com/fluency/48/000000/about-us-female.png"/> Contact Me![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
 <!-- - [Gmail](https://jjanvi.arora18@gmail.com) -->
 - [LinkedIn](https://www.linkedin.com/in/janvi-arora-ja06660/) 
 - [Twitter](https://twitter.com/janviaroraa_) 
