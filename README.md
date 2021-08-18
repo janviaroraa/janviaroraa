@@ -18,6 +18,7 @@ I consider myself a very focused person and always work towards my goals in a ve
 <!-- - [Gmail](https://jjanvi.arora18@gmail.com) -->
 - [LinkedIn](https://www.linkedin.com/in/janvi-arora-ja06660/) 
 - [Twitter](https://twitter.com/janviaroraa_) 
+- [Skype](https://join.skype.com/invite/hB5uheAIJBEB)
 - [Instagram](https://www.instagram.com/janviaroraa_)
 <!-- - [My personal portfolio](http://sharmaumang001.github.io)  -->
 
