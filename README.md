@@ -21,7 +21,7 @@ I consider myself a very focused person and always work towards my goals in a ve
 - [Instagram](https://www.instagram.com/janviaroraa_)
 <!-- - [My personal portfolio](http://sharmaumang001.github.io)  -->
 
-### 📈 Github Stats
+### 📈 Github Stats!
 - [Check My Repositories](https://github.com/janviaroraa?tab=repositories)
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janviaroraa&show_icons=true&theme=gotham" alt="Janvi Arora" /> -->
