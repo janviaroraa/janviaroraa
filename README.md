@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=janviaroraa.janviaroraa) -->
 
 <!-- [![GitHub Janvi](https://img.shields.io/github/followers/janviaroraa?label=follow&style=social)](https://github.com/janviaroraa) -->
 
