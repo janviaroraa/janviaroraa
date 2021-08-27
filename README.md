@@ -11,8 +11,11 @@ I am _Janvi Arora_, a third-year Computer Science Engineering student. I'm from 
 I think computer science is omnipresent, i.e., it is present in almost every field and I have invested my last two years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. I also create clean, professional, and functional websites. <br>
 I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic in tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
 
+---
+
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=janviaroraa&column=7"/>
 
+---
 
 ### 🤝🏻 Wanna Work With Me?
 - jjanvi.arora18@gmail.com
