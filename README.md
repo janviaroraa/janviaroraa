@@ -17,7 +17,7 @@ I consider myself a very focused person and always work towards my goals in a ve
 
 ---
 
-### 🤝🏻 Wanna Work With Me?
+### 🤝🏻 Let's work together!
 - jjanvi.arora18@gmail.com
 
 ### 🧿 Contact Me!  
