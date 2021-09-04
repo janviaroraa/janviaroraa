@@ -10,7 +10,7 @@
 <a href ="https://twitter.com/janviaroraa_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
 <a href ="https://www.instagram.com/janviaroraa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  &nbsp;
 <a href ="https://join.skype.com/invite/hB5uheAIJBEB"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/></a>  &nbsp;
-<a href ="(https://mailto:jjanvi.arora18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  &nbsp;
+<a href ="https://mailto:jjanvi.arora18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  &nbsp;
  
 
 
