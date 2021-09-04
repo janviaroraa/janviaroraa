@@ -3,7 +3,22 @@
 
 <!-- [![GitHub Janvi](https://img.shields.io/github/followers/janviaroraa?label=follow&style=social)](https://github.com/janviaroraa) -->
 
-# Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp; <br/><br/> <a  href="https://www.linkedin.com/in/janvi-arora-ja06660/"> <img alt="LinkedIn" src="https://img.icons8.com/fluency/36/000000/linkedin.png"> </a> </a>  <a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/36/000000/hackerrank.png"> </a> </a> 
+# Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp; <br/><br/> 
+
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+<a  href="https://www.linkedin.com/in/janvi-arora-ja06660/"> <img alt="LinkedIn" src="https://img.icons8.com/fluency/36/000000/linkedin.png"> </a> </a>  <a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/36/000000/hackerrank.png"> </a> </a> 
 
 <!-- <a href="https://www.codechef.com/users/sharmaumang001"><img alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" /></a> <a href="https://codeforces.com/profile/sharmaumang001"><img alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" /></a> <a href="https://clist.by/coder/sharmaumang001"><img alt="CList" width="22px" src="https://github.com/sharmaumang001/sharmaumang001/blob/main/list.svg" /></a> 
  -->
