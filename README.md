@@ -11,11 +11,12 @@
 <!-- <a href="https://twitter.com/janviaroraa_">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
+
 <a href="https://www.linkedin.com/in/janvi-arora-ja06660/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/36/000000/hackerrank.png"> </a> </a> 
+<a href="https://www.hackerrank.com/jjanvi_arora18"> <img alt="Hackerrank" src="https://img.icons8.com/windows/24/000000/hackerrank.png"> </a> </a> 
 
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
