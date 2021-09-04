@@ -25,11 +25,16 @@ I consider myself a very focused person and always work towards my goals in a ve
 
 ### 🧿 Contact Me!  
 <!-- - [Gmail](https://jjanvi.arora18@gmail.com) -->
-- [LinkedIn](https://www.linkedin.com/in/janvi-arora-ja06660/) 
+<!-- - [LinkedIn](https://www.linkedin.com/in/janvi-arora-ja06660/) 
 - [Twitter](https://twitter.com/janviaroraa_) 
 - [Skype](https://join.skype.com/invite/hB5uheAIJBEB)
-- [Instagram](https://www.instagram.com/janviaroraa_)
+- [Instagram](https://www.instagram.com/janviaroraa_) -->
 <!-- - [My personal portfolio](http://sharmaumang001.github.io)  -->
+
+<a href ="https://twitter.com/janviaroraa_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
+<a href ="https://www.instagram.com/janviaroraa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  &nbsp;
+<a href ="https://join.skype.com/invite/hB5uheAIJBEB"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/></a>  &nbsp;
+ 
 
 ### 📈 Github Stats!
 - [Check My Repositories](https://github.com/janviaroraa?tab=repositories)
