@@ -5,18 +5,20 @@
 
 # Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp;  
 
-<a href ="https://www.linkedin.com/in/janvi-arora-ja06660/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href ="https://www.hackerrank.com/jjanvi_arora18/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>  &nbsp;
-<a href ="https://twitter.com/janviaroraa_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
-<a href ="https://www.instagram.com/janviaroraa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  &nbsp;
-<a href ="https://join.skype.com/invite/hB5uheAIJBEB"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/></a>  &nbsp;
-<a href ="https://mailto:jjanvi.arora18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  &nbsp;
+
  
 
 
 I am _Janvi Arora_, a third-year Computer Science Engineering student. I'm from Morinda, Punjab. <br>
 I think computer science is omnipresent, i.e., it is present in almost every field and I have invested my last two years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. I also create clean, professional, and functional websites. <br>
 I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic in tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
+
+<a href ="https://www.linkedin.com/in/janvi-arora-ja06660/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href ="https://www.hackerrank.com/jjanvi_arora18/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>  &nbsp;
+<a href ="https://twitter.com/janviaroraa_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
+<a href ="https://www.instagram.com/janviaroraa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  &nbsp;
+<a href ="https://join.skype.com/invite/hB5uheAIJBEB"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/></a>  &nbsp;
+<a href ="https://mailto:jjanvi.arora18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  &nbsp;
 
 ---
 
