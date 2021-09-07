@@ -60,12 +60,12 @@ I consider myself a very focused person and always work towards my goals in a ve
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janviaroraa&theme=nord_dark) -->
 
 <p align="center">
-<!--  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviaroraa&layout=compact&title_color=fff&text_color=fff&bg_color=151515" /> -->
  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janviaroraa&theme=nord_dark" />
  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janviaroraa&theme=nord_dark" />
- <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviaroraa&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviaroraa&theme=nord_dark" />
 </p>
 
+<!-- &layout=compact&title_color=fff&text_color=fff&bg_color=151515 -->
 
 <!--
 **janviaroraa/janviaroraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
