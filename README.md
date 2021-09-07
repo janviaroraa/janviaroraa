@@ -43,6 +43,11 @@ I consider myself a very focused person and always work towards my goals in a ve
 ### 📈 Github Stats!
 - [Check My Repositories](https://github.com/janviaroraa?tab=repositories)
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janviaroraa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=janviaroraa&theme=tokyonight" />
+</p>
+
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janviaroraa&show_icons=true&theme=gotham" alt="Janvi Arora" /> -->
 
 <div>
