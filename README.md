@@ -56,8 +56,8 @@ I consider myself a very focused person and always work towards my goals in a ve
 </div> -->
 
 <p align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janviaroraa&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janviaroraa&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janviaroraa&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janviaroraa&theme=nord_dark)
 </p>
 
 
