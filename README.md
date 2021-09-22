@@ -15,6 +15,7 @@ I consider myself a very focused person and always work towards my goals in a ve
 
 <a href ="https://www.linkedin.com/in/janvi-arora-ja06660/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href ="https://www.hackerrank.com/jjanvi_arora18/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>  &nbsp;
+<a href ="https://www.codechef.com/users/janviaroraa/"><img src="https://img.shields.io/badge/Codechef-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>  &nbsp;
 <a href ="https://twitter.com/janviaroraa_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
 <a href ="https://www.instagram.com/janviaroraa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  &nbsp;
 <a href ="https://join.skype.com/invite/hB5uheAIJBEB"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/></a>  &nbsp;
