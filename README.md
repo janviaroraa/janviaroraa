@@ -9,9 +9,9 @@
  
 
 
-I am _Janvi Arora_, a fourth-year Computer Science Engineering student. I'm from Morinda, Punjab. <br>
-I think computer science is omnipresent, i.e., it is present in almost every field and I have invested my last two years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. I also create clean, professional, and functional websites. <br>
-I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic in tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
+I am _Janvi Arora_, a fourth-year Computer Science Engineering student. I'm from Punjab. <br>
+I think computer science is omnipresent, i.e., it is present in almost every field and I have invested years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. <br>
+I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic at tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
 
 <a href ="https://www.linkedin.com/in/janvi-arora-ja06660/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href ="https://www.hackerrank.com/jjanvi_arora18/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>  &nbsp;
