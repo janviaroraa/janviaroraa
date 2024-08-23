@@ -8,7 +8,7 @@
  
 
 
-I am _Janvi Arora_, a fourth-year Computer Science Engineering student. I'm from Punjab. <br>
+I am _Janvi Arora_, an iOS Developer. <br>
 I think computer science is omnipresent, i.e., it is present in almost every field and I have invested years in developing my software skills. I have been consistently working hard to improve my communication, programming, and problem-solving skills. <br>
 I consider myself a very focused person and always work towards my goals in a very efficient manner. Furthermore, I'm a tireless seeker of knowledge, a team player, and very optimistic at tough times. I believe in having a good time while doing what I love, and I do love what I do. I'm capable of a wide range of tactical and big-picture tasks.
 
