@@ -1,11 +1,11 @@
-<img alt="" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/77fe0023f1b821c7abc7053459938f38f30895f9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f646a616e676f2d61646d696e2d696e746572666163652e7376673f636f6c6f723d626c7565">
+<!-- <img alt="" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/77fe0023f1b821c7abc7053459938f38f30895f9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f646a616e676f2d61646d696e2d696e746572666163652e7376673f636f6c6f723d626c7565"> -->
 
 <!-- [![GitHub Janvi](https://img.shields.io/github/followers/janviaroraa?label=follow&style=social)](https://github.com/janviaroraa) -->
 
 # Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp;  
 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=janviaroraa)
+ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=janviaroraa)  -->
 
 
 I am _Janvi Arora_, an iOS Developer. <br>
