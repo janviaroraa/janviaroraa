@@ -18,7 +18,7 @@ I consider myself a very focused person and always work towards my goals in a ve
 <a href ="https://www.instagram.com/janviaroraa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  &nbsp;
 <a href ="https://join.skype.com/invite/hB5uheAIJBEB"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/></a>  &nbsp;
 <a href ="https://mailto:jjanvi.arora18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  &nbsp;
-<a href ="https://janviarora.medium.com/"><img src="https://camo.githubusercontent.com/70ca88ea4ec71a3bfefbe92ad2bc4d529dd80198d97f7903d2ce60af5b9860d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465"/></a>  &nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@janviarora)
 <!-- <a href ="https://www.codechef.com/users/janviaroraa/"><img src="https://img.shields.io/badge/Codechef-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>  &nbsp; -->
 ---
 
